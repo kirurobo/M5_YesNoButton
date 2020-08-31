@@ -1,0 +1,20 @@
+{
+    "url":"https://script.google.com/macros/s/UNIQUE_ID/exec",
+    "interval_minutes":2.0,
+    "is_transmitter":0,
+    "enable_description":1,
+    "ca_file":"rootca.crt",
+    "font_small":"font-8pt",
+    "font_medium":"font-16pt",
+    "font_large":"font-24pt",
+    "wifi":[
+        {"ssid":"foo","password":"hogehoge"},
+        {"ssid":"bar","password":"fugafuga"}
+    ],
+    "button":[
+        {"label":"Set 0"},
+        {"label":"Set 1"},
+        {"label":"Set 2"},
+        {"label":"Set 3"}
+    ]
+}
